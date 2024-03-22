@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wordgame/static/css/main.18aff00c.css",
+    "main.js": "/wordgame/static/js/main.36b8b862.js",
+    "static/media/Cross.png": "/wordgame/static/media/Cross.cbf77228e847522eff11.png",
+    "static/media/Ranade-Variable.ttf": "/wordgame/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
+    "index.html": "/wordgame/index.html",
+    "static/media/Info.svg": "/wordgame/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
+    "static/media/Close.svg": "/wordgame/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
+    "main.18aff00c.css.map": "/wordgame/static/css/main.18aff00c.css.map",
+    "main.36b8b862.js.map": "/wordgame/static/js/main.36b8b862.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18aff00c.css",
+    "static/js/main.36b8b862.js"
+  ]
+}
